@@ -3,7 +3,7 @@
 
 - 🔭 Estou desenvolvendo o Projeto Loja Virtual [1802619-5_NeemiasdaSilvaPadilha](https://github.com/NeemiasdaSilvaPadilha/1802619-5_NeemiasdaSilvaPadilha)
 
-- 🌱 I’m currently learning **Back End Sistemas para Internet**
+- 🌱 Atualmente estou aprendendo **Matéria Back End Sistemas para Internet**
 
 
 <h3 align="left">Languages and Tools:</h3>
